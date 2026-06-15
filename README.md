@@ -1,4 +1,4 @@
-# 👨‍💻 Guilherme Lucke 
+# 👨🏻‍💻 Otávio Laplechade
 
 **`Desenvolvedor Full Stack`**
 
