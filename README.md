@@ -1,64 +1,95 @@
-# 👨🏻‍💻 Otávio Laplechade
+# 👋 Olá! Eu sou o Otávio Laplechade
 
-**`Desenvolvedor Full Stack`**
-
-Sou Desenvolvedor Full Stack, apaixonado por tecnologia, inovação e pela criação de soluções que geram impacto. Atualmente, curso o 7º semestre de Engenharia de Software, conciliando a formação acadêmica com experiência prática no desenvolvimento de aplicações web.
-
-Ao longo da minha trajetória, desenvolvi competências em desenvolvimento de software, arquitetura de sistemas e resolução de problemas, além de experiência em liderança de equipes e otimização de processos. Minha evolução profissional reflete o compromisso com o aprendizado contínuo, a colaboração e a entrega de soluções eficientes, sempre buscando unir qualidade técnica, inovação e foco nos resultados.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Engenharia+de+Software+-+7º+Semestre;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Sempre+aprendendo+algo+novo." />
+</p>
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Biome](https://img.shields.io/badge/Biome-1A1A1A?style=for-the-badge&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+Sou **Desenvolvedor Full Stack** apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
 
-### 🌱 Explorando & Aprendendo
+Atualmente curso o **7º semestre de Engenharia de Software**, conciliando a graduação com projetos práticos voltados ao desenvolvimento de aplicações web.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+Tenho experiência com desenvolvimento Front-end e Back-end, arquitetura de sistemas, APIs REST, bancos de dados, automações e otimização de processos, sempre buscando escrever código limpo, escalável e de fácil manutenção.
 
-### 📊 Estatísticas
+---
 
-<div align="center">
+## 💻 Stack Principal
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,ts,js,html,css,tailwind,bootstrap,postgres,mongodb,docker,git,github,aws,python,linux,vscode&perline=10" />
+</p>
 
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviolap&layout=compact&theme=tokyonight&langs_count=9"
-  />
+---
 
-</div>
+## 🌱 Atualmente estudando
 
-<br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=angular,php" />
+</p>
 
-<div align="center">
+---
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=otaviolap&theme=tokyonight&hide_border=true"
-  />
+## 📊 Estatísticas
 
-</div>
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviolap&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=otaviolap&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=otaviolap&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Conquistas
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=otaviolap&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+- 🚀 Sistemas Web Full Stack
+- 📱 Aplicações React e Next.js
+- ⚙️ APIs REST em Java Spring Boot
+- 🗄️ Integrações com PostgreSQL e MongoDB
+- ☁️ Deploy utilizando Docker, AWS e Vercel
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="mailto:SEUEMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEULINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=otaviolap&style=for-the-badge&color=0E75B6"/>
+</p>
