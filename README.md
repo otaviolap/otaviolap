@@ -39,20 +39,26 @@ Ao longo da minha trajetória, desenvolvi competências em desenvolvimento de so
 
 ### 📊 Estatísticas
 
-<p align="center">
+<div align="center">
+
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviolap&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviolap&layout=compact&theme=tokyonight&langs_count=9"
   />
-</p>
 
-<p align="center">
+</div>
+
+<br/>
+
+<div align="center">
+
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=otaviolap&theme=tokyonight" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=otaviolap&theme=tokyonight&hide_border=true"
   />
-</p>
+
+</div>
