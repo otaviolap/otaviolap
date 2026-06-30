@@ -1,25 +1,42 @@
-# 👋 Olá! Eu sou o Otávio Laplechade
+# 👨🏻‍💻 Otávio Laplechade
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4EA1FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Engenharia+de+Software+-+7º+Semestre;Java+%7C+Spring+Boot+%7C+React+%7C+Node.js;Sempre+aprendendo+algo+novo." />
-</p>
+**Desenvolvedor Full Stack | Software Engineer**
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou **Desenvolvedor Full Stack** apaixonado por tecnologia, desenvolvimento de software e resolução de problemas.
+Sou **Desenvolvedor Full Stack Jr (nível 3)**, apaixonado por tecnologia, desenvolvimento web, APIs e soluções escaláveis.
 
-Atualmente curso o **7º semestre de Engenharia de Software**, conciliando a graduação com projetos práticos voltados ao desenvolvimento de aplicações web.
+Atualmente curso **Engenharia de Software na Universidade Positivo**, estando no **7º semestre**, conciliando a formação acadêmica com projetos práticos de desenvolvimento.
 
-Tenho experiência com desenvolvimento Front-end e Back-end, arquitetura de sistemas, APIs REST, bancos de dados, automações e otimização de processos, sempre buscando escrever código limpo, escalável e de fácil manutenção.
+📍 Londrina - PR
 
 ---
 
-## 💻 Stack Principal
+## 🎯 Áreas de atuação
+
+- Desenvolvimento Web
+- APIs REST
+- Desenvolvimento Mobile
+- Inteligência Artificial
+- Automação de processos
+- Banco de Dados
+
+---
+
+## 🧰 Stack Principal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,ts,js,html,css,tailwind,bootstrap,postgres,mongodb,docker,git,github,aws,python,linux,vscode&perline=10" />
+<img src="https://skillicons.dev/icons?i=react,react,nextjs,nodejs,vercel,github,vscode,windows" />
+</p>
+
+---
+
+## 💻 Outras Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,python,postgres,mongodb,docker,git,wordpress,aws" />
 </p>
 
 ---
@@ -36,14 +53,10 @@ Tenho experiência com desenvolvimento Front-end e Back-end, arquitetura de sist
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=otaviolap&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviolap&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=otaviolap&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -56,37 +69,28 @@ Tenho experiência com desenvolvimento Front-end e Back-end, arquitetura de sist
 
 ---
 
-## 🏆 Conquistas
+## 🔭 Atualmente trabalhando em
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=otaviolap&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-</p>
+- Sistema de gestão **BR Consórcios**
+- Aprimoramento em arquitetura de software
 
 ---
 
-## 📌 Projetos em destaque
+## 🌍 Idiomas
 
-- 🚀 Sistemas Web Full Stack
-- 📱 Aplicações React e Next.js
-- ⚙️ APIs REST em Java Spring Boot
-- 🗄️ Integrações com PostgreSQL e MongoDB
-- ☁️ Deploy utilizando Docker, AWS e Vercel
+- 🇧🇷 Português (Nativo)
+- 🇺🇸 Inglês (Intermediário)
+- 🇪🇸 Espanhol (Intermediário)
 
 ---
 
 ## 📫 Contato
 
-<p align="center">
+📧 otaviolapbrandi2@hotmail.com  
 
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEULINK">
+<a href="https://www.linkedin.com/in/ot%C3%A1vio-laplechade-93a48137/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-</p>
 
 ---
 
